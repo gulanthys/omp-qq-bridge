@@ -1,0 +1,4 @@
+.runtime/
+.omp-qq/
+node_modules/
+*.log
